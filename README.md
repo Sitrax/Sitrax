@@ -14,7 +14,7 @@
 - :globe_with_meridians:   HTML | CSS | JavaScript | Bootstrap
 - :oil_drum:   MySQL
 - :wrench:  PyCharm | Visual Studio code | Eclipse | Git | Sublime Text 3 | Visual Studio 2019 | Game Maker Studio 2
-:- desktop_computer:  JetBrains
+:- :desktop_computer:  JetBrains
 
 
 
