@@ -4,7 +4,6 @@
 - :telescope:   Programador
 - :thinking:   Desenvolvendo tool's
 - :mortar_board:   Estudando sempre.
-- :writing_hand:   Eu sou superior.
 - 🔗 Estamos espionando seus passos, Somos Spartans, Isso é só um aviso :)
 
 **Tecnologias**
